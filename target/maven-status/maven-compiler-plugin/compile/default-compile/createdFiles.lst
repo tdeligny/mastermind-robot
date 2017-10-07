@@ -1,0 +1,13 @@
+com\mastermind\CodeColors.class
+com\mastermind\DecodingBoard.class
+com\mastermind\TipsPegsLine.class
+com\mastermind\MainStarter.class
+com\mastermind\MasterMindGameConstants.class
+com\mastermind\MastermindStrategy.class
+com\mastermind\RandomDumbStrategy.class
+com\mastermind\SecretColors.class
+com\mastermind\ColorPegsLine.class
+com\mastermind\HumanStrategy.class
+com\mastermind\GamePlay.class
+com\mastermind\ToDo.class
+com\mastermind\MastermindLogger.class
