@@ -2,7 +2,6 @@ package com.mastermind;
 
 public class HumanStrategy extends MastermindStrategy {
 	
-
 	/**
 	 * 
 	 * @return a ColorPegsLine corresponding to the best human strategy taking advantages of previous plays
