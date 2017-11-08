@@ -5,12 +5,12 @@ public class HumanStrategy extends MastermindStrategy {
 	/**
 	 * 
 	 * @return a ColorPegsLine corresponding to the best human strategy taking advantages of previous plays
-	 * 
+	 *   
 	 * Algorithm:
 	 * Set colors previously found
 	 * try new ones excluding the bad ones  
 	 */
-	public ColorPegsLine getNeaxtPegsLine() {
+	public ColorPegsLine getNextPegsLine() {
 		
 		// Build the resulting object
 		ColorPegsLine aColorPegsLine = new ColorPegsLine();
