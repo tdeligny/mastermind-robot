@@ -8,9 +8,9 @@ public class HumanStrategy extends MastermindStrategy {
 	 * 
 	 * Algorithm:
 	 * Set colors previously found
-	 * try new ones excluding the bad ones
+	 * try new ones excluding the bad ones  
 	 */
-	public ColorPegsLine getNextPegsLine() {
+	public ColorPegsLine getNeaxtPegsLine() {
 		
 		// Build the resulting object
 		ColorPegsLine aColorPegsLine = new ColorPegsLine();
